@@ -1,0 +1,706 @@
+[
+    {
+      "facing": "N1",
+      "direction": "North",
+      "start_angle": 315,
+      "end_angle": 326.25,
+      "compass_direction": "NW",
+      "element": "space(akash)",
+      "devta": "Roga",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Brass Strip near the main door or even under it. ",
+        "Use Yellow Floor Mat"
+      ],
+      "remedies_secondary": [
+        "Use Door Closer",
+        "Use Circle Brass Helix",
+        "Use Yellow Tape Door Strip"
+      ],
+      "effect": [
+        "Highly inauspicious; generates hostility leading to severe conflicts, even murder."
+      ]
+    },
+    {
+      "facing": "N2",
+      "direction": "North",
+      "start_angle": 326.25,
+      "end_angle": 337.5,
+      "compass_direction": "NNW",
+      "element": "water",
+      "devta": "Naga",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Stainless Steel Strip on or near the maoin door",
+        "Use Blue Color Floor mat"
+      ],
+      "remedies_secondary": [
+        "Use Small Bagua Mirror",
+        "Bur Capmhor near the gate daily",
+        "UseBlue Tape Door Strip"
+      ],
+      "effect": [
+        "Another extremely negative field causing enmity, material cravings, and jealousy."
+      ]
+    },
+    {
+      "facing": "N3",
+      "direction": "North",
+      "start_angle": 337.5,
+      "end_angle": 348.75,
+      "compass_direction": "NNW",
+      "element": "water",
+      "devta": "Mukhya",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "",
+        "Don't use Red or Yellowcolor mat or tiles near the door and door color should not be yellow or Red"
+      ],
+      "remedies_secondary": [
+        "Very Auspicious door in this Zone",
+        "",
+        "UseBlue Tape Door Strip"
+      ],
+      "effect": [
+        "Very auspicious; brings wealth and blessings of male children."
+      ]
+    },
+    {
+      "facing": "N4",
+      "direction": "North",
+      "start_angle": 348.75,
+      "end_angle": 360,
+      "compass_direction": "N",
+      "element": "water",
+      "devta": "Bhallat",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "",
+        "Don't use Red or Yellowcolor mat or tiles near the door and door color should not be yellow or Red"
+      ],
+      "remedies_secondary": [
+        "Very Auspicious door in this Zone",
+        "",
+        "UseBlue Tape Door Strip"
+      ],
+      "effect": [
+        "Associated with god of abundance; brings immense wealth and prosperity."
+      ]
+    },
+    {
+      "facing": "N5",
+      "direction": "North",
+      "start_angle": 360,
+      "end_angle": 11.25,
+      "compass_direction": "N",
+      "element": "water",
+      "devta": "Som",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "Use Stainless Steel Strip on or near the maoin door",
+        "Use Blue Floor Mat"
+      ],
+      "remedies_secondary": [
+        "Use Small Bagua Mirror",
+        "Burn Capmhor near the gate daily",
+        "UseBlue Tape Door Strip"
+      ],
+      "effect": [
+        "Moon energy; helps in wealth generation, children, and spiritual growth."
+      ]
+    },
+    {
+      "facing": "N6",
+      "direction": "North",
+      "start_angle": 11.25,
+      "end_angle": 22.5,
+      "compass_direction": "NNE",
+      "element": "water",
+      "devta": "Bhujag",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Stainless Steel/Almunium steel  Strip on or near the main door",
+        "Use Blue Floor Mat"
+      ],
+      "remedies_secondary": [
+        "Use Small Bagua Mirror",
+        "Burn Capmhor near the gate daily",
+        "UseBlue Tape Door Strip"
+      ],
+      "effect": [
+        "Inauspicious; causes health issues like flu, kidney and eye problems."
+      ]
+    },
+    {
+      "facing": "N7",
+      "direction": "North",
+      "start_angle": 22.5,
+      "end_angle": 33.75,
+      "compass_direction": "NNE",
+      "element": "water",
+      "devta": "Aditi",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Stainless Steel/Almunium steel  Strip on or near the main door",
+        "Use Blue Floor Mat"
+      ],
+      "remedies_secondary": [
+        "Use Small Bagua Mirror",
+        "Use Small Bagua Mirror",
+        "UseBlue Tape Door Strip"
+      ],
+      "effect": [
+        "Adversely affects women, creating rebellious nature and unconventional relationships."
+      ]
+    },
+    {
+      "facing": "N8",
+      "direction": "North",
+      "start_angle": 33.75,
+      "end_angle": 45,
+      "compass_direction": "NE",
+      "element": "water",
+      "devta": "Diti",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "",
+        "Don't use Red or Yellowcolor mat or tiles near the door and door color should not be yellow or Red"
+      ],
+      "remedies_secondary": [
+        "Very Auspicious door in this Zone",
+        "Use Mirror for Good Energy",
+        "UseBlue Tape Door Strip"
+      ],
+      "effect": [
+        "Auspicious and beneficial for the household's prosperity and peace."
+      ]
+    },
+    {
+      "facing": "E1",
+      "direction": "East",
+      "start_angle": 45,
+      "end_angle": 56.25,
+      "compass_direction": "NE",
+      "element": "water",
+      "devta": "Shikhi",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Almunium or Brass Strip",
+        "Use Blue Color Floor mat"
+      ],
+      "remedies_secondary": [
+        "Use Door Closer",
+        "Use Bagua Mirror",
+        "UseBlue Tape Door Strip"
+      ],
+      "effect": [
+        "Highly inauspicious; leads to fire accidents and financial losses."
+      ]
+    },
+    {
+      "facing": "E2",
+      "direction": "East",
+      "start_angle": 56.25,
+      "end_angle": 67.5,
+      "compass_direction": "ENE",
+      "element": "air",
+      "devta": "Parjanya",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Stainlesss steel strip",
+        "Use Green Color Floor Mat"
+      ],
+      "remedies_secondary": [
+        "Keep The door color Green",
+        "Use Door energy Blocker",
+        "Use Green Tape Door Strip"
+      ],
+      "effect": [
+        "Causes unnecessary expenditure and financial instability."
+      ]
+    },
+    {
+      "facing": "E3",
+      "direction": "East",
+      "start_angle": 67.5,
+      "end_angle": 78.75,
+      "compass_direction": "ENE",
+      "element": "air",
+      "devta": "Jayant",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "",
+        "Don't use Red or Yellow color door or tile"
+      ],
+      "remedies_secondary": [
+        "",
+        "",
+        "Use Green Tape Door Strip"
+      ],
+      "effect": [
+        "Brings victory, success, and social expansion with fruitful social connectivity "
+      ]
+    },
+    {
+      "facing": "E4",
+      "direction": "East",
+      "start_angle": 78.75,
+      "end_angle": 90,
+      "compass_direction": "E",
+      "element": "air",
+      "devta": "Indra",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "",
+        "Don't use Red or Yellow color door or tile"
+      ],
+      "remedies_secondary": [
+        "",
+        "",
+        "Use Green Tape Door Strip"
+      ],
+      "effect": [
+        "Ensures associations with influential people leading to profit and power."
+      ]
+    },
+    {
+      "facing": "E5",
+      "direction": "East",
+      "start_angle": 90,
+      "end_angle": 101.25,
+      "compass_direction": "E",
+      "element": "air",
+      "devta": "Surya",
+      "zone": "AVERAGE",
+      "remedies_primary": [
+        "Use Stainlesss steel strip",
+        "Use Green Color Floor Mat"
+      ],
+      "remedies_secondary": [
+        "Keep The door color Green",
+        "Use Door energy Blocker",
+        "Use Green Tape Door Strip"
+      ],
+      "effect": [
+        "Mixed results; people become aggressive and make wrong decisions."
+      ]
+    },
+    {
+      "facing": "E6",
+      "direction": "East",
+      "start_angle": 101.25,
+      "end_angle": 112.5,
+      "compass_direction": "ESE",
+      "element": "air",
+      "devta": "Satya",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Stainlesss steel strip",
+        "Use Green Color Floor Mat"
+      ],
+      "remedies_secondary": [
+        "Keep The door color Green",
+        "Use Door energy Blocker",
+        "Use Green Tape Door Strip"
+      ],
+      "effect": [
+        "Causes deceitful behavior and broken friendships/partnerships."
+      ]
+    },
+    {
+      "facing": "E7",
+      "direction": "East",
+      "start_angle": 112.5,
+      "end_angle": 123.75,
+      "compass_direction": "ESE",
+      "element": "air",
+      "devta": "Bhrisha",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Stainlesss steel strip",
+        "Use Green Color Floor Mat"
+      ],
+      "remedies_secondary": [
+        "Keep The door color Green",
+        "Use Door Energy Bocker",
+        "Use Green Tape Door Strip"
+      ],
+      "effect": [
+        "uncanny behaviour and self-centerd attitude and lose connection with society and hampers his own success. "
+      ]
+    },
+    {
+      "facing": "E8",
+      "direction": "East",
+      "start_angle": 123.75,
+      "end_angle": 135,
+      "compass_direction": "SE",
+      "element": "fire",
+      "devta": "Akash",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Copper Strip under the door",
+        "Use Red Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the doore color yellow/light red/pink",
+        "Use Door Energy Blocker",
+        "Use Door Energy Blocker"
+      ],
+      "effect": [
+        "Causes theft, sudden losses, and troubles from authority."
+      ]
+    },
+    {
+      "facing": "S1",
+      "direction": "South",
+      "start_angle": 135,
+      "end_angle": 146.25,
+      "compass_direction": "SE",
+      "element": "fire",
+      "devta": "Anila",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Copper Strip under ther door",
+        "Use Red Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the doore color yellow/light red/pink",
+        "Use Door Energy Blocker",
+        "Use Green Tape Door Strip"
+      ],
+      "effect": [
+        "Adversely affects the male child and causes conflicts with parents."
+      ]
+    },
+    {
+      "facing": "S2",
+      "direction": "South",
+      "start_angle": 146.25,
+      "end_angle": 157.5,
+      "compass_direction": "SSE",
+      "element": "fire",
+      "devta": "Pusha",
+      "zone": "AVERAGE",
+      "remedies_primary": [
+        "Use Copper Strip under the door",
+        "Use Red Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the doore color yellow/light red/pink",
+        "Use Door Energy Blocker",
+        "Use Green Tape Door Strip"
+      ],
+      "effect": [
+        "Gives corporate success but brings troubles from relatives."
+      ]
+    },
+    {
+      "facing": "S3",
+      "direction": "South",
+      "start_angle": 157.5,
+      "end_angle": 168.75,
+      "compass_direction": "SSE",
+      "element": "fire",
+      "devta": "Vithatha",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "",
+        "Don't use blue color door or Mat"
+      ],
+      "remedies_secondary": [
+        "very auspicious",
+        "Use Door Energy Blocker",
+        ""
+      ],
+      "effect": [
+        "Brings smartness and prosperity, but can make one unreliable."
+      ]
+    },
+    {
+      "facing": "S4",
+      "direction": "South",
+      "start_angle": 168.75,
+      "end_angle": 180,
+      "compass_direction": "S",
+      "element": "fire",
+      "devta": "Gruhakshat",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "",
+        "Don't use blue color door or Mat"
+      ],
+      "remedies_secondary": [
+        "very auspicious",
+        "Use Door Energy Blocker",
+        ""
+      ],
+      "effect": [
+        "Provides fame and prosperity, especially good for media personalities."
+      ]
+    },
+    {
+      "facing": "S5",
+      "direction": "South",
+      "start_angle": 180,
+      "end_angle": 191.25,
+      "compass_direction": "S",
+      "element": "fire",
+      "devta": "Yama",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Copper Strip under the door",
+        "Use Red Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow/light red/pink",
+        "Use Door Energy Blocker",
+        "Use Green or red  Tape Door Strip"
+      ],
+      "effect": [
+        "Extremely ominous; causes diseases, suffering, and financial burden."
+      ]
+    },
+    {
+      "facing": "S6",
+      "direction": "South",
+      "start_angle": 191.25,
+      "end_angle": 202.5,
+      "compass_direction": "SSW",
+      "element": "earth",
+      "devta": "Gandharva",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Brass Strip under the door",
+        "Use YellowDoor Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow",
+        "Use Door Energy Blocker",
+        "Use Yellow Tape and burmn camphor in Vastu Shikhar's Hawan Cup"
+      ],
+      "effect": [
+        "Leads to stress, extreme poverty, and financial instability."
+      ]
+    },
+    {
+      "facing": "S7",
+      "direction": "South",
+      "start_angle": 202.5,
+      "end_angle": 213.75,
+      "compass_direction": "SSW",
+      "element": "earth",
+      "devta": "Bhringraj",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Brass Strip under the door",
+        "Use YellowDoor Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow",
+        "Use Door Energy Blocker",
+        "Use Yellow Tape and burmn camphor in Vastu Shikhar's Hawan Cup"
+      ],
+      "effect": [
+        "Brings disappointment and lack of motivation despite efforts."
+      ]
+    },
+    {
+      "facing": "S8",
+      "direction": "South",
+      "start_angle": 213.75,
+      "end_angle": 225,
+      "compass_direction": "SW",
+      "element": "earth",
+      "devta": "Mrigha",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Brass Strip under the door",
+        "Use YellowDoor Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow",
+        "Use Door Energy Blocker",
+        "Use Yellow Tape and burmn camphor in Vastu Shikhar's Hawan Cup"
+      ],
+      "effect": [
+        "Causes loneliness, instability, and disconnection from society and causes Pitra Dosha."
+      ]
+    },
+    {
+      "facing": "W1",
+      "direction": "West",
+      "start_angle": 225,
+      "end_angle": 236.25,
+      "compass_direction": "SW",
+      "element": "earth",
+      "devta": "Pitra",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Brass Strip under the door",
+        "Use Yellow Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow",
+        "Use Door Energy Blocker",
+        "Use Yellow Tape and burmn camphor in Vastu Shikhar's Hawan Cup"
+      ],
+      "effect": [
+        "Creates instability, poverty, and reduces lifespan and also creates Pitra Dosha. "
+      ]
+    },
+    {
+      "facing": "W2",
+      "direction": "West",
+      "start_angle": 236.25,
+      "end_angle": 247.5,
+      "compass_direction": "WSW",
+      "element": "space(akash)",
+      "devta": "Duawarik",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Brass Strip under the door",
+        "Use Yellow Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow",
+        "Use Door Energy Blocker",
+        "Use Yellow Tape and burmn camphor in Vastu Shikhar's Hawan Cup"
+      ],
+      "effect": [
+        "Brings career instability and relationship troubles."
+      ]
+    },
+    {
+      "facing": "W3",
+      "direction": "West",
+      "start_angle": 247.5,
+      "end_angle": 258.75,
+      "compass_direction": "WSW",
+      "element": "space(akash)",
+      "devta": "Sugreev",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "",
+        "Don't use red and green color mat, tiles or door"
+      ],
+      "remedies_secondary": [
+        "",
+        "",
+        ""
+      ],
+      "effect": [
+        "Highly beneficial for educators and business growth."
+      ]
+    },
+    {
+      "facing": "W4",
+      "direction": "West",
+      "start_angle": 258.75,
+      "end_angle": 270,
+      "compass_direction": "W",
+      "element": "space(akash)",
+      "devta": "Pushpdant",
+      "zone": "GOOD",
+      "remedies_primary": [
+        "",
+        "Don't use red and green color mat, tiles or door"
+      ],
+      "remedies_secondary": [
+        "",
+        "",
+        ""
+      ],
+      "effect": [
+        "Ensures financial growth and a happy life and natives fruitful ressulkts through his own karma and there will be fulfillment of his desires."
+      ]
+    },
+    {
+      "facing": "W5",
+      "direction": "West",
+      "start_angle": 270,
+      "end_angle": 281.25,
+      "compass_direction": "W",
+      "element": "space(akash)",
+      "devta": "Varun",
+      "zone": "AVERAGE",
+      "remedies_primary": [
+        "Use Brass Strip under the door",
+        "Use Yellow Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow",
+        "Use Door Energy Blocker",
+        "Use Yellow Tape and burmn camphor."
+      ],
+      "effect": [
+        "Mixed results; prosperity but over-ambition can cause downfall."
+      ]
+    },
+    {
+      "facing": "W6",
+      "direction": "West",
+      "start_angle": 281.25,
+      "end_angle": 292.5,
+      "compass_direction": "WNW",
+      "element": "space(akash)",
+      "devta": "Asur",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Brass Strip under the door",
+        "Use Yellow Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow",
+        "Use Door Energy Blocker",
+        "Use Yellow Tape and burmn camphor."
+      ],
+      "effect": [
+        "Causes fatigue, physical weakness, and depression."
+      ]
+    },
+    {
+      "facing": "W7",
+      "direction": "West",
+      "start_angle": 292.5,
+      "end_angle": 303.75,
+      "compass_direction": "WNW",
+      "element": "space(akash)",
+      "devta": "Shosha",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Brass Strip under the door",
+        "Use Yellow Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow",
+        "Use Door Energy Blocker",
+        "Use Yellow Tape and burmn camphor."
+      ],
+      "effect": [
+        "Leads to physical weakness and drug addiction."
+      ]
+    },
+    {
+      "facing": "W8",
+      "direction": "West",
+      "start_angle": 303.75,
+      "end_angle": 315,
+      "compass_direction": "NW",
+      "element": "space(akash)",
+      "devta": "Papyakshama",
+      "zone": "BAD",
+      "remedies_primary": [
+        "Use Brass Strip under the door",
+        "Use Yellow Door Mat"
+      ],
+      "remedies_secondary": [
+        "Keep the dore color yellow",
+        "Use Door Energy Blocker",
+        "Use Yellow Tape and burmn camphor."
+      ],
+      "effect": [
+        "Encourages unethical behavior leading to trouble."
+      ]
+    }
+  ]

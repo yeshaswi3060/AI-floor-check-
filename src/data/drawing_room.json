@@ -1,0 +1,238 @@
+[
+  {
+    "direction": "North",
+    "zone": "Best",
+    "effect": [
+      "Drawing Room in North zone is the best zone promotes prosperity.",
+      "Drawing Room here brings sucess & prosperity",
+      ""
+    ],
+    "compass_direction": "N",
+    "start_angle": 348.75,
+    "end_angle": 11.25,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "North-Northeast(NNE)",
+    "zone": "Best",
+    "effect": [
+      "Drawing Room in NNE Zone brings harmony in family",
+      "Drawing Room in NNE Zone is ideal for financial prosperity",
+      ""
+    ],
+    "compass_direction": "NNE",
+    "start_angle": 11.25,
+    "end_angle": 33.75,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Northeast",
+    "zone": "Best",
+    "effect": "[\"Drawing Room in NE Zone brings divine spiritual energy\", \"Drawing Room in NE Zone is good for family\"s harmony and overall well-being.\", \"Drawing Room in this zonew brings early sucess in life. \"]",
+    "compass_direction": "NE",
+    "start_angle": 33.75,
+    "end_angle": 56.25,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "East-Northeast(ENE)",
+    "zone": "Good",
+    "effect": [
+      "Drwaing Room in ENE Zone promots positivity & growth",
+      "Drawing Room here is good for relationship and mental peace. ",
+      ""
+    ],
+    "compass_direction": "ENE",
+    "start_angle": 56.25,
+    "end_angle": 78.75,
+    "element": "air",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "East",
+    "zone": "Good",
+    "effect": [
+      "Drawing Room in East Zone sweetness in relationships",
+      "Drawing Room here  brings positive enrgy and social harmony.",
+      ""
+    ],
+    "compass_direction": "E",
+    "start_angle": 78.75,
+    "end_angle": 101.25,
+    "element": "air",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "East-Southeast(ESE)",
+    "zone": "Not Ideal",
+    "effect": [
+      "Drawing  Room in  ESE Zone disrupts peace & harmony. ",
+      "Drawing Room here bring emotional stress & unproductive activity.",
+      ""
+    ],
+    "compass_direction": "ESE",
+    "start_angle": 101.25,
+    "end_angle": 123.75,
+    "element": "air",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "SouthEast(SE)",
+    "zone": "good",
+    "effect": [
+      "Drawing Room  in SE Zone is good for work& businesss",
+      "Drawing Room here Brings positive results in all aspects of life",
+      ""
+    ],
+    "compass_direction": "SE",
+    "start_angle": 123.75,
+    "end_angle": 146.25,
+    "element": "fire",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "South-Southeast(SSE)",
+    "zone": "neutral",
+    "effect": [
+      "Drawing Room in SSE Zone leads to peace talk in family",
+      "Drawing Room here brings unanimous agreements  regarding work amd business. ",
+      ""
+    ],
+    "compass_direction": "SSE",
+    "start_angle": 146.25,
+    "end_angle": 168.75,
+    "element": "fire",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "South",
+    "zone": "good",
+    "effect": [
+      "Drawing Room  in South Zone  leads to love & respect in family.",
+      "Drawing room here leads to relaxed meetings and good understandings.",
+      ""
+    ],
+    "compass_direction": "S",
+    "start_angle": 168.75,
+    "end_angle": 191.25,
+    "element": "fire",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "South-Southwest(SSW)",
+    "zone": "Bad",
+    "effect": [
+      "Drawing Room in SSW direction cause mental stress",
+      "Drawing Room here cause fimnacial instability and emotional conflicts.",
+      ""
+    ],
+    "compass_direction": "SSW",
+    "start_angle": 191.25,
+    "end_angle": 213.75,
+    "element": "earth",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Southwest",
+    "zone": "Bad",
+    "effect": [
+      "Drawing Room in SW Zone leads to financial instability",
+      "Drawing Room here causes mental stress and emotional conflicts.",
+      ""
+    ],
+    "compass_direction": "SW",
+    "start_angle": 213.75,
+    "end_angle": 236.25,
+    "element": "earth",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "West-Southwest(WSW)",
+    "zone": "Good",
+    "effect": [
+      "Drawing Room in WSW Zone  brings stability & Encourages good communication",
+      "Drawing Room here encourages good amicable relations and communications",
+      ""
+    ],
+    "compass_direction": "WSW",
+    "start_angle": 236.25,
+    "end_angle": 258.75,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "West",
+    "zone": "Neutral",
+    "effect": [
+      "Drawing Room in West Zone brings sucess in entertainment work",
+      "Drawing Room here yields positive  and productive results. ",
+      ""
+    ],
+    "compass_direction": "W",
+    "start_angle": 258.75,
+    "end_angle": 281.25,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "West-Northwest(WNW)",
+    "zone": "Neutral",
+    "effect": [
+      "Drawing Room  in WNW Zone makes  them outspoken",
+      "Drawing Room here makes family reveal every important things to others. ",
+      ""
+    ],
+    "compass_direction": "WNW",
+    "start_angle": 281.25,
+    "end_angle": 303.75,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Northwest",
+    "zone": "Good",
+    "effect": [
+      "Drawing Room in NW zone brings favors through meetings & negotiations",
+      "",
+      ""
+    ],
+    "compass_direction": "NW",
+    "start_angle": 303.75,
+    "end_angle": 326.25,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "North-Northwest",
+    "zone": "Good",
+    "effect": [
+      "Drawing Room in NNW Zone promotes growth and career advancemment",
+      "Drawing room here make you socialize and makes connection.",
+      ""
+    ],
+    "compass_direction": "NNW",
+    "start_angle": 326.25,
+    "end_angle": 348.75,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  }
+]

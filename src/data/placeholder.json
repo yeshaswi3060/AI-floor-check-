@@ -1,0 +1,20 @@
+{
+  "N": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "NNE": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "NE": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "ENE": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "E": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "ESE": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "SE": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "SSE": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "S": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "SSW": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "SW": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "WSW": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "W": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "WNW": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "NW": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] },
+  "NNW": { "zone": "Neutral", "element": "", "remedies_primary": [], "remedies_secondary": [], "effect": [] }
+}
+
+

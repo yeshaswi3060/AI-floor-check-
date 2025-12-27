@@ -1,0 +1,290 @@
+[
+    {
+      "direction": "North",
+      "zone": "Best",
+      "compass_direction": "N",
+      "start_angle": 348.75,
+      "end_angle": 11.25,
+      "element": "water",
+      "remedies_primary": [
+        "Don't use Dark  Red and Dark Yellow Color in Temple",
+        "Temple face Must be in East  or West. "
+      ],
+      "remedies_secondary": [
+        "Use light color and cream color in temple room "
+      ],
+      "effect": [
+        "Puja Room in this Zone Brings spiritual growth, prosperity, and harmony in the home. Lakshmi and Ganesh Puja is the most suitable one. "
+      ]
+    },
+    {
+      "direction": "North-Northeast",
+      "zone": "Best",
+      "compass_direction": "NNE",
+      "start_angle": 11.25,
+      "end_angle": 33.75,
+      "element": "water",
+      "remedies_primary": [
+        "Don't use Dark  Red and Dark Yellow Color in Temple either in paint or mat or temple color",
+        "Temple face  and Murti face Must be in East  or West. "
+      ],
+      "remedies_secondary": [
+        "Use light color, pastel color and cream color in temple room "
+      ],
+      "effect": [
+        "Best zone  for Puja Room, especially for Shiv Puja, Shiv Parivar Puja, Dhanwantri Puja. It also gives good helath and immunity."
+      ]
+    },
+    {
+      "direction": "Northeast",
+      "zone": "Best",
+      "compass_direction": "NE",
+      "start_angle": 33.75,
+      "end_angle": 56.25,
+      "element": "water",
+      "remedies_primary": [
+        "Don't use Dark  Red and Dark Yellow Color in Temple",
+        "Temple face Must be in East  or West zone"
+      ],
+      "remedies_secondary": [
+        "Use light color and cream color in temple room and gate"
+      ],
+      "effect": [
+        "Most auspicious for temple placement, brings blessings and peace."
+      ]
+    },
+    {
+      "direction": "East-Northeast",
+      "zone": "Best",
+      "compass_direction": "ENE",
+      "start_angle": 56.25,
+      "end_angle": 78.75,
+      "element": "air",
+      "remedies_primary": [
+        "Don't use Dark  Red and Dark Yellow Color in Temple either in paint or mat or temple color",
+        "Temple face Must be in East  or West. "
+      ],
+      "remedies_secondary": [
+        "Use light color and cream color in temple room "
+      ],
+      "effect": [
+        "Puja Roome in this Zone Creates a calm and peaceful environment and brings fresh energy among family members."
+      ]
+    },
+    {
+      "direction": "East",
+      "zone": "Good",
+      "compass_direction": "E",
+      "start_angle": 78.75,
+      "end_angle": 101.25,
+      "element": "air",
+      "remedies_primary": [
+        "Don't use Dark  Red and Dark Yellow Color in Temple either in paint or mat or temple color",
+        "Temple face Must be in East  or West zone and door should be in light color"
+      ],
+      "remedies_secondary": [
+        "Use light color, pastel color and cream color in temple room "
+      ],
+      "effect": [
+        "Puja Room in this Zone is ideal for meditation and prayer, brings peace and positive energy. It is most beneficial for bringing gains from government, politicians and higher authorities. "
+      ]
+    },
+    {
+      "direction": "East-Southeast",
+      "zone": "Bad",
+      "compass_direction": "ESE",
+      "start_angle": 101.25,
+      "end_angle": 123.75,
+      "element": "air",
+      "remedies_primary": [
+        "It's an inauspicious direction for the temple. ",
+        "Best Remedies to do not install any temple or Murti in this zone. If already have, them please remove it. "
+      ],
+      "remedies_secondary": [
+        ""
+      ],
+      "effect": [
+        "Puja Room in this Zone can cause distractions in worship,  restlessness, anxiety and lacks tranquility."
+      ]
+    },
+    {
+      "direction": "Southeast",
+      "zone": "Avoid",
+      "compass_direction": "SE",
+      "start_angle": 123.75,
+      "end_angle": 146.25,
+      "element": "fire",
+      "remedies_primary": [
+        "It's an average  direction for the temple. . In This Zone Use of Red Color should be must. ",
+        "Don't use Blue Color and Kuber Statue"
+      ],
+      "remedies_secondary": [
+        "Please Do install Hanuman Ji or Devi Durga Red Murti"
+      ],
+      "effect": [
+        "Puja Room is not recommended in this Zone as  it can casue accidents and loss of wealth in the family. However, only  Puja of Maa Durga is beneficial in this Zone. "
+      ]
+    },
+    {
+      "direction": "South-Southeast",
+      "zone": "Avoid",
+      "compass_direction": "SSE",
+      "start_angle": 146.25,
+      "end_angle": 168.75,
+      "element": "fire",
+      "remedies_primary": [
+        "It's an average  direction for the temple. . In This Zone Use of Red Color should be must. ",
+        "Don't use Blue Color and Kuber Statue"
+      ],
+      "remedies_secondary": [
+        "Please Do install Hanuman Ji Red Murti"
+      ],
+      "effect": [
+        "Puja Room in this direction is not recommended at all. Only Hanumanji Devotion and mantras could be chanted in this zone. "
+      ]
+    },
+    {
+      "direction": "South",
+      "zone": "Not Ideal",
+      "compass_direction": "S",
+      "start_angle": 168.75,
+      "end_angle": 191.25,
+      "element": "fire",
+      "remedies_primary": [
+        "It's an average  direction for the temple. . In This Zone Use of Red Color should be must. ",
+        "Don't use Blue Color and Kuber Statue"
+      ],
+      "remedies_secondary": [
+        "Please Do install Hanuman Ji Red Murti"
+      ],
+      "effect": [
+        "Puja Room in this Zone can cause disturbances and conflicts in the family."
+      ]
+    },
+    {
+      "direction": "South-Southwest",
+      "zone": "Avoid",
+      "compass_direction": "SSW",
+      "start_angle": 191.25,
+      "end_angle": 213.75,
+      "element": "earth",
+      "remedies_primary": [
+        "It's an inauspicuious place to to install temple or have temple. ",
+        "Please do not install temple here or if you have then please remove it.(no remedies)"
+      ],
+      "remedies_secondary": [
+        ""
+      ],
+      "effect": [
+        "Puja room in this Zone Blocks spiritual energy and  promotes conflicts."
+      ]
+    },
+    {
+      "direction": "Southwest",
+      "zone": "Avoid",
+      "compass_direction": "SW",
+      "start_angle": 213.75,
+      "end_angle": 236.25,
+      "element": "earth",
+      "remedies_primary": [
+        "This Zone is also not recommended for the temple",
+        "Do Pitra Puja in this zone along with Vishwakarma Puja"
+      ],
+      "remedies_secondary": [
+        ""
+      ],
+      "effect": [
+        "Not suitable for spiritual activities, causes imbalances. Only Pitra Puja and Vishwakarma puja is recommendede in this zone. "
+      ]
+    },
+    {
+      "direction": "West-Southwest",
+      "zone": "Neutral",
+      "compass_direction": "WSW",
+      "start_angle": 236.25,
+      "end_angle": 258.75,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "This Zone is also not recommended for the temple. Only Saraswati puja is apllicable here. ",
+        "Don't use green and dark red color in this zone"
+      ],
+      "remedies_secondary": [
+        "Yellow color best in this zone. "
+      ],
+      "effect": [
+        "Puja Room in this Zone brings average results. Most Beneficial for pacifying Maa Saraswati"
+      ]
+    },
+    {
+      "direction": "West",
+      "zone": "Neutral",
+      "compass_direction": "W",
+      "start_angle": 258.75,
+      "end_angle": 281.25,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "This Zone is average for temple and worship. Only Guru Puja is recommended here",
+        "Don't use green and dark red color in this zone"
+      ],
+      "remedies_secondary": [
+        "Yellow color best in this zone. "
+      ],
+      "effect": [
+        "All Guru Puja is recommended in this Zone but avoid deity worship in this zone. "
+      ]
+    },
+    {
+      "direction": "West-Northwest",
+      "zone": "Bad",
+      "compass_direction": "WNW",
+      "start_angle": 281.25,
+      "end_angle": 303.75,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "It's an inauspicuious place to to install temple or have temple because it's an depression Zone",
+        "Please do not install temple here or if you have then please remove it.(no remedies)"
+      ],
+      "remedies_secondary": [
+        ""
+      ],
+      "effect": [
+        "Puja Room in this Zone do not promote the highest spiritual energy and causes depression. "
+      ]
+    },
+    {
+      "direction": "Northwest",
+      "zone": "Bad",
+      "compass_direction": "NW",
+      "start_angle": 303.75,
+      "end_angle": 326.25,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "Puja Room in This Zone is not very auspicuous causes lack of focus & stability",
+        "Don't Use Red or Green color in this Zone"
+      ],
+      "remedies_secondary": [
+        "Yellow color best in this zone. "
+      ],
+      "effect": [
+        "Puja Room in this Zone Leads to lack of focus and clarity in life."
+      ]
+    },
+    {
+      "direction": "North-Northwest",
+      "zone": "Neutral",
+      "compass_direction": "NNW",
+      "start_angle": 326.25,
+      "end_angle": 348.75,
+      "element": "water",
+      "remedies_primary": [
+        "Average Zone for Temple or Puja Room",
+        "Puja Room here reduces divine blessings and focus."
+      ],
+      "remedies_secondary": [
+        "Use only Light Cream Color Here"
+      ],
+      "effect": [
+        "Puja Room in this Zone Leads to scattered energy, reducing the impact of prayers. "
+      ]
+    }
+  ]

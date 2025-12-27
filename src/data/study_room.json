@@ -1,0 +1,230 @@
+[
+  {
+    "direction": "North",
+    "zone": "Good",
+    "effect": [
+      "Study room in North zone promotes career growth.",
+      "Study room here brings good concentration and  intelligence",
+      ""
+    ],
+    "compass_direction": "N",
+    "start_angle": 348.75,
+    "end_angle": 11.25,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "North-Northeast (NNE)",
+    "zone": "Good",
+    "effect": [
+      "Study Room in NNE zone enhances focus",
+      "Study room here enhances memory",
+      "Study room here brings academic success"
+    ],
+    "compass_direction": "NNE",
+    "start_angle": 11.25,
+    "end_angle": 33.75,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Northeast (NE)",
+    "zone": "Best",
+    "effect": [
+      "Study room in NE direction brings calmness in students",
+      "Study roomn here increses productivity and intellect among your children.",
+      ""
+    ],
+    "compass_direction": "NE",
+    "start_angle": 33.75,
+    "end_angle": 56.25,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "East-Northeast (ENE)",
+    "zone": "Bad",
+    "effect": [
+      "Best Zone for Students",
+      "Study Room causes lack of focus and concentration among school kids",
+      ""
+    ],
+    "compass_direction": "ENE",
+    "start_angle": 56.25,
+    "end_angle": 78.75,
+    "element": "air",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "East",
+    "zone": "Good",
+    "effect": [
+      "Study Room in East Zone brings focus & wisdom",
+      "Study room here brings intellectual power",
+      "Reciting gaytri mantra brings magical results in this zone"
+    ],
+    "compass_direction": "E",
+    "start_angle": 78.75,
+    "end_angle": 101.25,
+    "element": "air",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "East-Southeast (ESE)",
+    "zone": "Bad",
+    "effect": "[\"Study Room in this Zone causes anxiety and irritation\"\", \"\"]",
+    "compass_direction": "ESE",
+    "start_angle": 101.25,
+    "end_angle": 123.75,
+    "element": "air",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Southeast (SE)",
+    "zone": "Good",
+    "effect": [
+      "Study Room in SE zone brings vast Knoweldge and curosity",
+      "Study Room here brightens the intellect of your children. ",
+      ""
+    ],
+    "compass_direction": "SE",
+    "start_angle": 123.75,
+    "end_angle": 146.25,
+    "element": "fire",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "South-Southeast (SSE)",
+    "zone": "Good",
+    "effect": [
+      "Study Room in SSE zone Promotes logical thinking in children",
+      "Study Room in SSE zone cause distractions sometimes",
+      ""
+    ],
+    "compass_direction": "SSE",
+    "start_angle": 146.25,
+    "end_angle": 168.75,
+    "element": "fire",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "South",
+    "zone": "Good",
+    "effect": [
+      "Study Room in South Zone encourage learning and intellectual growth.",
+      "Study room here enhances creativity in your children. ",
+      ""
+    ],
+    "compass_direction": "S",
+    "start_angle": 168.75,
+    "end_angle": 191.25,
+    "element": "fire",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "South-Southwest (SSW)",
+    "zone": "Bad",
+    "effect": "[\"Study Room in SSW zone destroy your intellect  \", \"Study Room in SSW zone cause major distraction in your , \"Studies\"]",
+    "compass_direction": "SSW",
+    "start_angle": 191.25,
+    "end_angle": 213.75,
+    "element": "earth",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Southwest (SW)",
+    "zone": "Good",
+    "effect": [
+      "Study Room in SW zone is good for sucess in higher education",
+      "  gives success in specialized studies",
+      "Study Room in SW zone gives success in clearing competitive exams."
+    ],
+    "compass_direction": "SW",
+    "start_angle": 213.75,
+    "end_angle": 236.25,
+    "element": "earth",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "West-Southwest (WSW)",
+    "zone": "Best",
+    "effect": [
+      "Study Room in WSW Zone help in gaining skills",
+      "Study Room here improves grasping power of your children. ",
+      ""
+    ],
+    "compass_direction": "WSW",
+    "start_angle": 236.25,
+    "end_angle": 258.75,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "West",
+    "zone": "Good",
+    "effect": [
+      "Study Room brings success for students",
+      "Study Room here gives clarity and focus among students",
+      ""
+    ],
+    "compass_direction": "W",
+    "start_angle": 258.75,
+    "end_angle": 281.25,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "West-Northwest (WNW)",
+    "zone": "Bad",
+    "effect": [
+      "Study Room in WNW zone causes confusion ",
+      "Study room here brings lack of clarity",
+      "Study room here brings incosistency and depression."
+    ],
+    "compass_direction": "WNW",
+    "start_angle": 281.25,
+    "end_angle": 303.75,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Northwest (NW)",
+    "zone": "Bad",
+    "effect": "[\"Study Room in NW zone disturbs focus and stability among children\", \", \"\"]",
+    "compass_direction": "NW",
+    "start_angle": 303.75,
+    "end_angle": 326.25,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "North-Northwest (NNW)",
+    "zone": "Good",
+    "effect": [
+      "Study Room here brings productivity",
+      "Study Room here brings success in studies",
+      ""
+    ],
+    "compass_direction": "NNW",
+    "start_angle": 326.25,
+    "end_angle": 348.75,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  }
+]

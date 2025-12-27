@@ -1,0 +1,322 @@
+[
+    {
+      "direction": "North",
+      "zone": "Best",
+      "compass_direction": "N",
+      "start_angle": 348.75,
+      "end_angle": 11.25,
+      "element": "water",
+      "remedies_primary": [
+        "Use Zinc, helix and Redsandalwood aroma essential oil for better sleep.",
+        "Don't use Red and Yellow color Bedsheet & Curtains"
+      ],
+      "remedies_secondary": [
+        "Use Blue, Light green & White color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "Bedroom in North zone promotes prosperity",
+        "Bedroom in this zone promotes good helath",
+        "This Zone promotes peaceful sleep"
+      ]
+    },
+    {
+      "direction": "North-Northeast (NNE)",
+      "zone": "Bad",
+      "compass_direction": "NNE",
+      "start_angle": 11.25,
+      "end_angle": 33.75,
+      "element": "water",
+      "remedies_primary": [
+        "Use Zinc, helix and Redsandalwood aroma essential oil for better sleep.",
+        "Don't use Red and Yellow color Bedsheet & Curtains"
+      ],
+      "remedies_secondary": [
+        "Use Blue, Light green & White color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "Bedroom in this zone cause health issues",
+        "Bedroom here makes immunity system weak",
+        ""
+      ]
+    },
+    {
+      "direction": "Northeast (NE)",
+      "zone": "Good",
+      "compass_direction": "NE",
+      "start_angle": 33.75,
+      "end_angle": 56.25,
+      "element": "water",
+      "remedies_primary": [
+        "Use Zinc, helix and Redsandalwood aroma essential oil for better sleep.",
+        "Don't use Red and Yellow color Bedsheet & Curtains"
+      ],
+      "remedies_secondary": [
+        "Use Blue,  & White color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "Bedroom here brings peace and prosperity.",
+        "This zone is good for little children and old age people.",
+        "This NE  Zone is not promising for young and married girls."
+      ]
+    },
+    {
+      "direction": "East-Northeast (ENE)",
+      "zone": "Good",
+      "compass_direction": "ENE",
+      "start_angle": 56.25,
+      "end_angle": 78.75,
+      "element": "air",
+      "remedies_primary": [
+        "Use Saffron, Red Rose ansd Camphor aroma Essential oil and photos of  green plant or green painting",
+        "Don't use Red and Yellow color Bedsheet & Curtains"
+      ],
+      "remedies_secondary": [
+        "Use Blue, Light Green & White color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "Bedroom in this Zone gives  joy and happiness",
+        "Bedroom in ENE zone bring good news ",
+        "Ideal Zone for pregnant ladies"
+      ]
+    },
+    {
+      "direction": "East",
+      "zone": "Good",
+      "compass_direction": "E",
+      "start_angle": 78.75,
+      "end_angle": 101.25,
+      "element": "air",
+      "remedies_primary": [
+        "Use Saffron, Red Rose ansd Camphor aroma Essential oil and photos of  green plant or green painting",
+        "Don't use Red and Yellow color Bedsheet & Curtains"
+      ],
+      "remedies_secondary": [
+        "Use Blue, Light Green & White color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "Bedroom here brings vitality and freshness.",
+        "East zone good for social connectivity",
+        "This Zone brings career growth."
+      ]
+    },
+    {
+      "direction": "East-Southeast (ESE)",
+      "zone": "Bad",
+      "compass_direction": "ESE",
+      "start_angle": 101.25,
+      "end_angle": 123.75,
+      "element": "air",
+      "remedies_primary": [
+        "Use Saffron, Red Rose ansd Camphor aroma Essential oil and photos of  green plant or green painting",
+        "Don't use Red and Yellow color Bedsheet & Curtains"
+      ],
+      "remedies_secondary": [
+        "Use Blue, Light Green & White color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "ESE zone brings anxiety",
+        "Bedroom here give mental stress",
+        "This Zone causes couple disputes"
+      ]
+    },
+    {
+      "direction": "Southeast (SE)",
+      "zone": "Bad",
+      "compass_direction": "SE",
+      "start_angle": 123.75,
+      "end_angle": 146.25,
+      "element": "fire",
+      "remedies_primary": [
+        "Use Blend of Jasmine and Sandalwood aroma essential oil. Use Copper Traingular Helix",
+        "Don' use Blue &  Black Color Bedsheet & Curtains. Do not use mirror in this zone"
+      ],
+      "remedies_secondary": [
+        "Use Yellow and Green Color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "Bedroom in SE zone cause selfish aggressive nature",
+        "This zone gives unrest among family members.",
+        "Sourth-east zone leads to instability in career."
+      ]
+    },
+    {
+      "direction": "South-Southeast (SSE)",
+      "zone": "Good",
+      "compass_direction": "SSE",
+      "start_angle": 146.25,
+      "end_angle": 168.75,
+      "element": "fire",
+      "remedies_primary": [
+        "Use Blend of Jasmine and Sandalwood aroma essential oil Use Copper Traingular Helix",
+        "Don' use Blue &  Black Color Bedsheet & Curtains. Do not use mirror in this zone"
+      ],
+      "remedies_secondary": [
+        "Use Yellow and Green Color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "Bedroom here helps person gain confidence",
+        "This Zone promotes excellent mental-physical strength.",
+        ""
+      ]
+    },
+    {
+      "direction": "South",
+      "zone": "Best",
+      "compass_direction": "S",
+      "start_angle": 168.75,
+      "end_angle": 191.25,
+      "element": "fire",
+      "remedies_primary": [
+        "Use Blend of Jasmine and Sandalwood aroma essential oil. Use Copper Traingular Helix",
+        "Don' use Blue &  Black Color Bedsheet & Curtains. Do not use mirror in this zone"
+      ],
+      "remedies_secondary": [
+        "Use Yellow and Green Color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "Bedroom here gives calmness ",
+        "This Zone gives peaceful healthy sleep.",
+        ""
+      ]
+    },
+    {
+      "direction": "South-Southwest (SSW)",
+      "zone": "Bad",
+      "compass_direction": "SSW",
+      "start_angle": 191.25,
+      "end_angle": 213.75,
+      "element": "earth",
+      "remedies_primary": [
+        "Use Lead Helix and Orangeblossom with Tuberrose aroma essential oil.",
+        "Don't use Blue,Red green color Bedsheet and Curtains "
+      ],
+      "remedies_secondary": [
+        "Use Yellow and white color Beedsheet and Curtains"
+      ],
+      "effect": [
+        "Bedroom in this zone bring high expenditure",
+        "Bedroom here brings bodyache arthiritis",
+        ""
+      ]
+    },
+    {
+      "direction": "Southwest (SW)",
+      "zone": "Good",
+      "compass_direction": "SW",
+      "start_angle": 213.75,
+      "end_angle": 236.25,
+      "element": "earth",
+      "remedies_primary": [
+        "Use Lead Helix and Orangeblossom with Tuberrose aroma essential oil.",
+        "Don't use Blue,Red green color Bedsheet and Curtains "
+      ],
+      "remedies_secondary": [
+        "Use Yellow and white color Beedsheet and Curtains"
+      ],
+      "effect": [
+        "Ideal zone for head of the family",
+        "ideal zone for married couples.",
+        "not ideal for aged people and children."
+      ]
+    },
+    {
+      "direction": "West-Southwest (WSW)",
+      "zone": "Best",
+      "compass_direction": "WSW",
+      "start_angle": 236.25,
+      "end_angle": 258.75,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "Use Circle Brass Helix and  use Lavender, Sandalwood and Citrus aroma essential oil ",
+        "Don't use Red and Green Color Bedsheet & Curtain"
+      ],
+      "remedies_secondary": [
+        "Use Yellow and white color Beedsheet and Curtains"
+      ],
+      "effect": [
+        "Ideal zone for peace stability in the family",
+        "WSW zone brings gains",
+        "Best Zone for Students"
+      ]
+    },
+    {
+      "direction": "West",
+      "zone": "Good",
+      "compass_direction": "W",
+      "start_angle": 258.75,
+      "end_angle": 281.25,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "Use Circle Brass Helix and  use Lavender, Sandalwood and Citrus aroma essential oil ",
+        "Don't use Red and Green Color Bedsheet & Curtain"
+      ],
+      "remedies_secondary": [
+        "Use Yellow, white, and Blue  color Beedsheet and Curtains"
+      ],
+      "effect": [
+        "This Zone is good for peace harmony.",
+        "West Zone demands watchulness about talks",
+        ""
+      ]
+    },
+    {
+      "direction": "West-Northwest (WNW)",
+      "zone": "very bad",
+      "compass_direction": "WNW",
+      "start_angle": 281.25,
+      "end_angle": 303.75,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "Use Circle Brass Helix and  use Lavender, Sandalwood and Citrus aroma essential oil ",
+        "Don't use Red and Green Color Bedsheet & Curtain"
+      ],
+      "remedies_secondary": [
+        "Use Yellow, white, and Blue  color Beedsheet and Curtains"
+      ],
+      "effect": [
+        "This WNW zone gives anxiety and depression.",
+        "This zone brings suicidal thoughts",
+        "This Zone brings unknown fear-phobias"
+      ]
+    },
+    {
+      "direction": "Northwest (NW)",
+      "zone": "Not Ideal",
+      "compass_direction": "NW",
+      "start_angle": 303.75,
+      "end_angle": 326.25,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "Use Circle Brass Helix and lavender, pine and lemon aroma Essential oil",
+        "Don't use Red and Green Color Bedsheet & Curtain"
+      ],
+      "remedies_secondary": [
+        "Use Yellow, white, and Blue  color Beedsheet and Curtains"
+      ],
+      "effect": [
+        "North-West Zone leads to emotional conflicts",
+        "Bedroom in NW-zone give unstable relationship.",
+        "This Zones gives cough-cold issues"
+      ]
+    },
+    {
+      "direction": "North-Northwest (NNW)",
+      "zone": "Good",
+      "compass_direction": "NNW",
+      "start_angle": 326.25,
+      "end_angle": 348.75,
+      "element": "water",
+      "remedies_primary": [
+        "Use Zinc, helix and Redsandalwood aroma essential oil for better sleep.",
+        "Don't use Red and Yellow color Bedsheet & Curtains"
+      ],
+      "remedies_secondary": [
+        "Use Blue, Light green & White color Bedsheet & Curtains"
+      ],
+      "effect": [
+        "Bedroom in this zone excellent for newly married ones",
+        "This Zone brings attraction among couples",
+        ""
+      ]
+    }
+  ]

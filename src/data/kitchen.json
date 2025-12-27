@@ -1,0 +1,330 @@
+[
+    {
+      "direction": "North",
+      "zone": "Bad",
+      "compass_direction": "N",
+      "start_angle": 348.75,
+      "end_angle": 11.25,
+      "element": "water",
+      "remedies_primary": [
+        "Remove Kitchen from here. North directions is a water zone so fire energy is not recommended here or not auspicious here.",
+        "If Possible please shift  gas stove in NNW Zone."
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Blue Painting here and 7 Horse Picture. Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": [
+        "Kitchen in North Zone Blocks career opportunities",
+        "Kitchen here block wealth earning opportunities",
+        "Kitchen here gives skin and nerve issues in the family"
+      ]
+    },
+    {
+      "direction": "North-Northeast(NNE)",
+      "zone": "Bad",
+      "compass_direction": "NNE",
+      "start_angle": 11.25,
+      "end_angle": 33.75,
+      "element": "water",
+      "remedies_primary": [
+        "Remove Kitchen from here. NNE directions is a water zone so fire energy is not recommended here or not auspicious here.",
+        "If Possible please shift  gas stove in NNW Zone."
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Blue Painting here. Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": [
+        "Kitchen in NNE Zone guives adverse effect on health,",
+        "Kitchen in this Zone cause adverse effet on immunity",
+        "Kitchen here brings financial issues in family"
+      ]
+    },
+    {
+      "direction": "Northeast(NE)",
+      "zone": "Bad",
+      "compass_direction": "NE",
+      "start_angle": 33.75,
+      "end_angle": 56.25,
+      "element": "water",
+      "remedies_primary": [
+        "Remove Kitchen from here. NE is a water zone so fire energy is not recommended here or not auspicious here.",
+        "If Possible please shift  gas stove in ENE Zone."
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Blue Painting here. Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": [
+        "Kitchen in NE zone disrupts spiritual growth",
+        "Kitchen  here causes health issues",
+        "Kitchen in this zone causes lack of clarity with financial issues"
+      ]
+    },
+    {
+      "direction": "East-Northeast(ENE)",
+      "zone": "Bad",
+      "compass_direction": "ENE",
+      "start_angle": 56.25,
+      "end_angle": 78.75,
+      "element": "air",
+      "remedies_primary": [
+        "If possible, please shift the kitchen to SE Zone. ENE direction is zone of happiness and enjoyment. So, shift the kitchen from here. ",
+        "Use green color slab around gas stove and stainless steel strip"
+      ],
+      "remedies_secondary": [
+        "Use green spotlight only when cooking",
+        "Use any green color Painting.  Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": "[\"Kitchen in ENE Zone cause loss of peace, \"\", \"Kitchen here brings lack of happiness and enjoyment \"]"
+    },
+    {
+      "direction": "East",
+      "zone": "neutral",
+      "compass_direction": "E",
+      "start_angle": 78.75,
+      "end_angle": 101.25,
+      "element": "air",
+      "remedies_primary": [
+        "Kitchen in this cause average results and it's better to shift in SE direction for better results. ",
+        "Use green color slab around gas stove and stainless steel strip"
+      ],
+      "remedies_secondary": [
+        "Use green spotlight only when cooking",
+        "Use any green color Painting.  Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": "[\"Kitchen in East zone average sucess in life\", \"Kitchen in this zone disturbs social connectivity in life It also give heart related issues]"
+    },
+    {
+      "direction": "East-Southeast(ESE)",
+      "zone": "NEUTRAL",
+      "compass_direction": "ESE",
+      "start_angle": 101.25,
+      "end_angle": 123.75,
+      "element": "air",
+      "remedies_primary": [
+        "Kitchen in this cause average results and it's better to shift in SE direction for better results. ",
+        "Use green color slab around gas stove and stainless steel strip"
+      ],
+      "remedies_secondary": [
+        "Use green spotlight only when cooking",
+        "Use any green color Painting.  Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": [
+        "Kitchen in ESE Zone  causes hypertension",
+        "Kitchen in this zone may delay your sucesss",
+        "Kitchen here brings acidic  problem"
+      ]
+    },
+    {
+      "direction": "Southeast(SE)",
+      "zone": "Best",
+      "compass_direction": "SE",
+      "start_angle": 123.75,
+      "end_angle": 146.25,
+      "element": "fire",
+      "remedies_primary": [
+        "This is the best or ideal zone for Kitchen. Fire positive energy generate in this Zone. ",
+        "Don't use blue color in this zone. "
+      ],
+      "remedies_secondary": [
+        "Use Copper Pyramid besde gas stove in SE Zone",
+        "Use any Red color Painting.  Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": [
+        "Kitchen in SE Zone is the most ideal in all aspects of life",
+        "Kitchen in this zone brings sucesss",
+        "Kitchen here brings good helath & nourishment. "
+      ]
+    },
+    {
+      "direction": "South-Southeast(SSE)",
+      "zone": "Best",
+      "compass_direction": "SSE",
+      "start_angle": 146.25,
+      "end_angle": 168.75,
+      "element": "fire",
+      "remedies_primary": [
+        "This is the 2nd best or ideal zone for Kitchen. Fire positive energy generate in this Zone. ",
+        "Don't use blue color in this zone. "
+      ],
+      "remedies_secondary": [
+        "Use Copper Pyramid besde gas stove in SE Zone",
+        "Use any Red color Painting.  Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": [
+        "Kitchen in SSE zone brings big success",
+        "Kitchen in this zone brings power & fame",
+        "Kitchen here gives confidence & nourishment"
+      ]
+    },
+    {
+      "direction": "South",
+      "zone": "Best",
+      "compass_direction": "S",
+      "start_angle": 168.75,
+      "end_angle": 191.25,
+      "element": "fire",
+      "remedies_primary": [
+        "This is the 3rd best or ideal zone for Kitchen. Fire positive energy generate in this Zone. ",
+        "Don't use blue color in this zone. "
+      ],
+      "remedies_secondary": [
+        "Use Copper Pyramid besde gas stove in SE Zone",
+        "Use any Red color Painting.  Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": [
+        "Kitchen in South Zone gives  comfortable life",
+        "Kitchen in this zone brings big success & fame",
+        "Kitchen here gives good easy comfortable life"
+      ]
+    },
+    {
+      "direction": "South-Southwest(SSW)",
+      "zone": "Avoid",
+      "compass_direction": "SSW",
+      "start_angle": 191.25,
+      "end_angle": 213.75,
+      "element": "earth",
+      "remedies_primary": [
+        "It is a bad Zone for Kitchen. This Direction is disposal zone so Kitchen here will bring bad results. ",
+        "If Possible better to shift your gas stove  in South/ SSE or SE direction. "
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Red color Painting in SE Zone.  Keep brass Pyramid  in SSW Kitchen . UseCopper Pyramid and Copper helix in SE Zone"
+      ],
+      "effect": [
+        "Kitchen in SSW Zone leads to excess expenditure",
+        "Family members can have upset stomachs  and wastage of food frequently",
+        ""
+      ]
+    },
+    {
+      "direction": "Southwest(SW)",
+      "zone": "Bad",
+      "compass_direction": "SW",
+      "start_angle": 213.75,
+      "end_angle": 236.25,
+      "element": "earth",
+      "remedies_primary": [
+        "It's a No No Zone for Kitchen. It's a bad direction whic crerate Pitra Dosh as it is a Pitra Zone",
+        "If Possible better to shift your gas stove  in South/ SSE or SE direction. "
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Red color Painting SE Zone.  Keep brass Pyramid  in SW  Kitchen zone  . Use Copper Pyramid and Copper helix in SE Zone"
+      ],
+      "effect": [
+        "Kitchen in SW Zone cause financial loss",
+        "Kitchen in this zone gives Physical and mental helath issues ",
+        "Kitchen here brings strained relationship and family disputes"
+      ]
+    },
+    {
+      "direction": "West-Southwest(WSW)",
+      "zone": "Bad",
+      "compass_direction": "WSW",
+      "start_angle": 236.25,
+      "end_angle": 258.75,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "It is a Education zone with space element so it's an inasupicious zone for the kitchen. ",
+        "If Possible better to shift your gas stove  in South/ SSE or SE direction. "
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Red color Painting in South East zone.  Keep Copper helix and copper pyramid in SE Zone . Use Brass Pyramide in WSW Kitchen Zone"
+      ],
+      "effect": [
+        "Kitchen in WSW zone affect intellect peace",
+        "Kitchen in this zone affects academic growth negatively and affect yopur savings.",
+        "Kitchen here affects study patterns of your children. "
+      ]
+    },
+    {
+      "direction": "West",
+      "zone": "bad",
+      "compass_direction": "W",
+      "start_angle": 258.75,
+      "end_angle": 281.25,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "West Zone is Saturn's zone with space element and it is a profit zone so, Kitchen in this zone should be avoided. ",
+        "If Possible better to shift your gas stove  in South/ SSE or SE direction. "
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Red color Painting in South East zone.  Keep Copper helix and copper pyramid in SE Zone . Use Brass Pyramide in W Kitchen Zone"
+      ],
+      "effect": [
+        "Bad Zone for Kitchen",
+        "Kitchen in West zone impacts your career and business",
+        "Kitchen here hampers your growth & prosperity"
+      ]
+    },
+    {
+      "direction": "West-NorthWest(WNW)",
+      "zone": "Bad",
+      "compass_direction": "WNW",
+      "start_angle": 281.25,
+      "end_angle": 303.75,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "This is an average zone for kitchen as it is a depression Zone. Please shift your gas stove burner to SE Zone. Kitchen in this zone should be avoided.",
+        "If Possible better to shift your gas stove  in South/ SSE or SE direction. "
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Red color Painting in South East zone.  Keep Copper helix and copper pyramid in SE Zone . Use Brass Pyramide in WNW Kitchen Zone"
+      ],
+      "effect": [
+        "Kitchen in WNW zone causes depression",
+        "Kitchen in this zone causes depression and confusion",
+        "Kitchen here is not good for helathy cooking and nourishment"
+      ]
+    },
+    {
+      "direction": "Northwest(NW)",
+      "zone": "Good",
+      "compass_direction": "NW",
+      "start_angle": 303.75,
+      "end_angle": 326.25,
+      "element": "space(akash)",
+      "remedies_primary": [
+        "This is a good Zone for Kitchen. Family gets support because of kitchen in this zone. ",
+        "SE is the ideal zone for Kitchen if possible you can shift it in SE Zone, Otherwise, no worries. "
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Red color Painting in South East zone.  Keep Copper helix and copper pyramid in SE Zone . Use Brass Pyramide in WNW Kitchen Zone"
+      ],
+      "effect": [
+        "Kitchen in NW zone  gives high influential contact with big gains",
+        "Kitchen in this zone ideal for financial support & gains",
+        "Kitchen here bring good fortune & prosperity"
+      ]
+    },
+    {
+      "direction": "North-Northwest(NNW)",
+      "zone": "Not Ideal",
+      "compass_direction": "NNW",
+      "start_angle": 326.25,
+      "end_angle": 348.75,
+      "element": "water",
+      "remedies_primary": [
+        "Remove Kitchen from here. NNW is a water zone so fire energy is not recommended here or not auspicious here. If Possible Please shift it to NW Zone",
+        "If Possible please shift  gas stove in NW Zone."
+      ],
+      "remedies_secondary": [
+        "Use Yellow slab and brass strip around your gas burner and use yellow spotlight only when cooking. ",
+        "Use any Blue Painting here. Keep Copper Pyramid & Copper helix in South-east direction"
+      ],
+      "effect": [
+        "Kitchen  in NNW Zone leads to chaos fight in domestic life.",
+        "Kitchen in this zone brings disturbance in harmony between couples",
+        "Kitchen here brings lack of peace with financial issues"
+      ]
+    }
+  ]

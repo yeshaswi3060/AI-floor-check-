@@ -1,0 +1,242 @@
+[
+  {
+    "direction": "North",
+    "zone": "Not ideal",
+    "effect": [
+      "Dining Room in North Zone cause money problems",
+      "Dining Room here causes conflict in family. ",
+      ""
+    ],
+    "compass_direction": "N",
+    "start_angle": 348.75,
+    "end_angle": 11.25,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "North-Northeast (NNE)",
+    "zone": "neutral",
+    "effect": [
+      "Dining Room in NNE zone can make family happy & helathy.",
+      "Dining Room here makes everyone progress in family. ",
+      ""
+    ],
+    "compass_direction": "NNE",
+    "start_angle": 11.25,
+    "end_angle": 33.75,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Northeast (NE)",
+    "zone": "Good",
+    "effect": [
+      "Dining Room in NE Zone  makes the family Spiritual/religious pious",
+      "Dining Room in NE Zone brings productive talk in environment.",
+      ""
+    ],
+    "compass_direction": "NE",
+    "start_angle": 33.75,
+    "end_angle": 56.25,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "East-Northeast (ENE)",
+    "zone": "Good",
+    "effect": [
+      "Dining Room in ENE Zone is best for guest and Visitors to dine.",
+      "Dining Room here will nring joy and food will be tasty.",
+      ""
+    ],
+    "compass_direction": "ENE",
+    "start_angle": 56.25,
+    "end_angle": 78.75,
+    "element": "air",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "East",
+    "zone": "Good",
+    "effect": [
+      "Dining Room in East Zone is ideal/best in all aspect. ",
+      "Dining Room here makes your social connection will be strong & long-lasting",
+      ""
+    ],
+    "compass_direction": "E",
+    "start_angle": 78.75,
+    "end_angle": 101.25,
+    "element": "air",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "East-Southeast (ESE)",
+    "zone": "Bad",
+    "effect": [
+      "Dinning Room in ESE Zone can be unproductive",
+      "Diining here can be unhelathy and not tasty.",
+      ""
+    ],
+    "compass_direction": "ESE",
+    "start_angle": 101.25,
+    "end_angle": 123.75,
+    "element": "air",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Southeast (SE)",
+    "zone": "Good",
+    "effect": [
+      "Dining Room in SE Zone will be positive & helathy",
+      "Dining Room will be healthy, peaceful & pious",
+      ""
+    ],
+    "compass_direction": "SE",
+    "start_angle": 123.75,
+    "end_angle": 146.25,
+    "element": "fire",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "South-Southeast (SSE)",
+    "zone": "Good",
+    "effect": [
+      "Dining Room in SSE zone leads to unanimous agrremnet in productive task and talk",
+      "Disccussion here will be peaceful ",
+      ""
+    ],
+    "compass_direction": "SSE",
+    "start_angle": 146.25,
+    "end_angle": 168.75,
+    "element": "fire",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "South",
+    "zone": "neutral",
+    "effect": [
+      "Dining Room in South Zone leaqds to good routine and chats",
+      "Dinning here will make you more relaxed",
+      ""
+    ],
+    "compass_direction": "S",
+    "start_angle": 168.75,
+    "end_angle": 191.25,
+    "element": "fire",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "South-Southwest (SSW)",
+    "zone": "bad",
+    "effect": [
+      "Dinning Room in ssw zone causes financial losses in family",
+      "Diining Room here also gives helath issues. ",
+      ""
+    ],
+    "compass_direction": "SSW",
+    "start_angle": 191.25,
+    "end_angle": 213.75,
+    "element": "earth",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Southwest (SW)",
+    "zone": "Good",
+    "effect": [
+      "Dinning Room in SW Zone leads to stability and growth.",
+      "Diining Roome here gives profits from ancesteral properties.",
+      ""
+    ],
+    "compass_direction": "SW",
+    "start_angle": 213.75,
+    "end_angle": 236.25,
+    "element": "earth",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "West-Southwest (WSW)",
+    "zone": "neutral",
+    "effect": [
+      "Dinning Room in WSW zone brings productive discussion",
+      "Diining Room here bring productive results in education",
+      ""
+    ],
+    "compass_direction": "WSW",
+    "start_angle": 236.25,
+    "end_angle": 258.75,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "West",
+    "zone": "Good",
+    "effect": [
+      "Dinning Room in West Zone leads to more productivity",
+      "Dinning here will bring positive and promising results in all aspects",
+      ""
+    ],
+    "compass_direction": "W",
+    "start_angle": 258.75,
+    "end_angle": 281.25,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "West-Northwest (WNW)",
+    "zone": "Neutral",
+    "effect": [
+      "Dinning Room in WNW Zone makes family member more talkative",
+      "Dinning Room here makes family member discuss their problems with guest or visitors. ",
+      ""
+    ],
+    "compass_direction": "WNW",
+    "start_angle": 281.25,
+    "end_angle": 303.75,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "Northwest (NW)",
+    "zone": "Good",
+    "effect": [
+      "Dinning Room in NW zone is very favorable for meeting and negotiations",
+      "",
+      ""
+    ],
+    "compass_direction": "NW",
+    "start_angle": 303.75,
+    "end_angle": 326.25,
+    "element": "space(akash)",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  },
+  {
+    "direction": "North-Northwest (NNW)",
+    "zone": "Good",
+    "effect": [
+      "Dining Room in this NNW Zone promotes growth",
+      "Dining Room here gives success and career advancement. ",
+      ""
+    ],
+    "compass_direction": "NNW",
+    "start_angle": 326.25,
+    "end_angle": 348.75,
+    "element": "water",
+    "remedies_primary": [],
+    "remedies_secondary": []
+  }
+]

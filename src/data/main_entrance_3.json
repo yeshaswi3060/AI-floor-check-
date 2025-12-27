@@ -1,0 +1,242 @@
+[
+    {
+      "direction": "North",
+      "zone": "Bad",
+      "compass_direction": "N",
+      "start_angle": 348.75,
+      "end_angle": 11.25,
+      "element": "water",
+      "effect": [
+        "Dustbin in North zone blocks positive energy",
+        "Dustbin here brings financial losses",
+        "Dustbin in this zone brings helath issues"
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "North-Northeast (NNE)",
+      "zone": "Bad",
+      "compass_direction": "NNE",
+      "start_angle": 11.25,
+      "end_angle": 33.75,
+      "element": "water",
+      "effect": [
+        "Dustbin in NNE zone creates turmoil at home",
+        "Dustbin here leads to confusion among family members",
+        "Dustbin here causes lack of growth and focus."
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "Northeast (NE)",
+      "zone": "Very Bad",
+      "compass_direction": "NE",
+      "start_angle": 33.75,
+      "end_angle": 56.25,
+      "element": "water",
+      "effect": [
+        "Dustbin here in NE zone lead to fight in family.",
+        "Dustbin here blocks prosperity",
+        "Dustbin here causes lack of growth and focus."
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "East-Northeast (ENE)",
+      "zone": "Bad",
+      "compass_direction": "ENE",
+      "start_angle": 56.25,
+      "end_angle": 78.75,
+      "element": "air",
+      "effect": [
+        "Dustbin in ENE  Zone leads to sorrow",
+        "Dustbin here bringssadness and lack of joy.",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "East",
+      "zone": "Neutral",
+      "compass_direction": "E",
+      "start_angle": 78.75,
+      "end_angle": 101.25,
+      "element": "air",
+      "effect": [
+        "Dustbin in this East zone disrupts spiritual energy at home",
+        "Dustbin here makes the family member  gets distant from society.",
+        "Dustbin here blocks growth in life"
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "East-Southeast (ESE)",
+      "zone": "Good",
+      "compass_direction": "ESE",
+      "start_angle": 101.25,
+      "end_angle": 123.75,
+      "element": "air",
+      "effect": [
+        "Good Place to keep dustbin in this zone",
+        "No issues as life goes well.",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "Southeast (SE)",
+      "zone": "Bad",
+      "compass_direction": "SE",
+      "start_angle": 123.75,
+      "end_angle": 146.25,
+      "element": "fire",
+      "effect": [
+        "Dustbin in SE zone brings negative energy",
+        "Dustbin here leads to mental stress and financial instability",
+        "Dustbin here leads mental stress in family"
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "South-Southeast (SSE)",
+      "zone": "Neutral",
+      "compass_direction": "SSE",
+      "start_angle": 146.25,
+      "end_angle": 168.75,
+      "element": "fire",
+      "effect": [
+        "Dustbin in SSE Zone leads to loss of power-energy",
+        "Dustbin here brings loss in reputation and prestige",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "South",
+      "zone": "Neutral",
+      "compass_direction": "S",
+      "start_angle": 168.75,
+      "end_angle": 191.25,
+      "element": "fire",
+      "effect": [
+        "Dustbin in South Zone leads to chaos in married life",
+        "Dustbin in this zoine makes foorts and opportunities go waste ",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "South-Southwest (SSW)",
+      "zone": "good",
+      "compass_direction": "SSW",
+      "start_angle": 191.25,
+      "end_angle": 213.75,
+      "element": "earth",
+      "effect": [
+        "Dustbin here can be kept in SSW Zone ",
+        "Dustbin here should be kept away foir working areas for beneficial results. ",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "Southwest (SW)",
+      "zone": "Bad",
+      "compass_direction": "SW",
+      "start_angle": 213.75,
+      "end_angle": 236.25,
+      "element": "earth",
+      "effect": [
+        "Dustbin in SW zone  lead to disturbance in family life ",
+        "Dustbin in this Zone leads to disagreement and arguments",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "West-Southwest (WSW)",
+      "zone": "Bad",
+      "compass_direction": "WSW",
+      "start_angle": 236.25,
+      "end_angle": 258.75,
+      "element": "space(akash)",
+      "effect": [
+        "Dustbin in WSW zone affects the liquid money savings",
+        "Dustbin in this Zone makes children lose interest in their studies.",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "West",
+      "zone": "Bad",
+      "compass_direction": "W",
+      "start_angle": 258.75,
+      "end_angle": 281.25,
+      "element": "space(akash)",
+      "effect": [
+        "Dustbin in West Zone creates tension in love-married life",
+        "Dustbin here brings emotional blockages in the house",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "West-Northwest (WNW)",
+      "zone": "Good",
+      "compass_direction": "WNW",
+      "start_angle": 281.25,
+      "end_angle": 303.75,
+      "element": "space(akash)",
+      "effect": [
+        "Dustbin in WNW zone is an ideal best place to keep",
+        "Dustbin here is perfect for harmony and prosperity",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "Northwest (NW)",
+      "zone": "Good",
+      "compass_direction": "NW",
+      "start_angle": 303.75,
+      "end_angle": 326.25,
+      "element": "space(akash)",
+      "effect": [
+        "Dustbin here is allowed.",
+        "All aspects of life goes normal",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    },
+    {
+      "direction": "North-Northwest (NNW)",
+      "zone": "Bad",
+      "compass_direction": "NNW",
+      "start_angle": 326.25,
+      "end_angle": 348.75,
+      "element": "water",
+      "effect": [
+        "Dustbin in NNW zone affects harmony in family.",
+        "Dustbin here negatively affects the bond and attraction between couples. ",
+        ""
+      ],
+      "remedies_primary": [],
+      "remedies_secondary": []
+    }
+  ]

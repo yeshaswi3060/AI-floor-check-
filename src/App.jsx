@@ -1,14 +1,11 @@
 import { useState, useRef, useCallback } from 'react'
+import { Routes, Route, useNavigate } from 'react-router-dom'
 import './App.css'
+import FloorPlanAnalysis from './pages/FloorPlanAnalysis'
+import Results from './pages/Results'
 
-// SVG Icons as components for professional look
+// SVG Icons
 const Icons = {
-  Logo: () => (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
-      <polyline points="9 22 9 12 15 12 15 22" />
-    </svg>
-  ),
   Upload: () => (
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
       <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
@@ -59,7 +56,9 @@ const Icons = {
   )
 }
 
-function App() {
+// Home Page Component
+function HomePage() {
+  const navigate = useNavigate()
   const [selectedImage, setSelectedImage] = useState(null)
   const [imagePreview, setImagePreview] = useState(null)
   const [isDragging, setIsDragging] = useState(false)
@@ -112,13 +111,13 @@ function App() {
     }
   }
 
-  const handleAnalyze = async () => {
-    if (!selectedImage) return
+  const handleAnalyze = () => {
+    if (!selectedImage || !imagePreview) return
     setIsAnalyzing(true)
-    // Simulate analysis - replace with actual API call
-    await new Promise(resolve => setTimeout(resolve, 2000))
-    setIsAnalyzing(false)
-    alert('Analysis complete! Vastu insights will be displayed here.')
+    // Navigate to analysis page with image data
+    setTimeout(() => {
+      navigate('/analysis', { state: { imageData: imagePreview } })
+    }, 500)
   }
 
   const formatFileSize = (bytes) => {
@@ -264,6 +263,17 @@ function App() {
         <p>© 2024 AI Vastu Analise. All rights reserved.</p>
       </footer>
     </div>
+  )
+}
+
+// Main App with Routes
+function App() {
+  return (
+    <Routes>
+      <Route path="/" element={<HomePage />} />
+      <Route path="/analysis" element={<FloorPlanAnalysis />} />
+      <Route path="/results" element={<Results />} />
+    </Routes>
   )
 }
 
